@@ -12,7 +12,7 @@ print(f'Follow {11v4} on Github')
    Python  :  python 3.9.12
 Languages  :  Python, Java, Js, Batch, C, HTML/CSS
   Discord  :  1018039303009488966
-   Server  :  1021399228414705714
+   Server  :  993676526094651533
 ```
 
 ```json
